@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to Rajinikanth Cloud -jenkins CI/CD deployment  DevOps Kitchen! doing from Lpatop VSCode</h1>
+    <h1>Welcome to ajaya kitchen center using Jenkins CI/CD.....</h1>
     <h2>Doing from ajaya branch</h2>
 
     <div id="menu">
